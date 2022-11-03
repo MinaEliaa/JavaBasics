@@ -2,13 +2,6 @@
 import java.util.Scanner;
 
 
-
-    
-
-/**
- *
- * @author Mena
- */
 public class SeasonMonth {
     
     public static void main(String[] args) {
@@ -64,7 +57,8 @@ public class SeasonMonth {
        else if (Month==12){
            
            System.out.println("the December is in Winter");
-       }
+       
+	}
         
         
         
