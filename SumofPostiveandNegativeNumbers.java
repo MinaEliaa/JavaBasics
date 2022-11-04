@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-
 public class SumofPostiveandNegativeNumbers {
     
     public static void main(String[] args) {
